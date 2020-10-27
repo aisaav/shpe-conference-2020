@@ -1,4 +1,6 @@
-# SHPE 2020 National Conference Tech Talk - Serverless Resume Web Application with a REST API backend on AWS
+# Forked from SHPE 2020 Conference! My version and updates to what I learned
+
+## SHPE 2020 National Conference Tech Talk - Serverless Resume Web Application with a REST API backend on AWS
 
 [Link to Tech Talk](https://shpe2020.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=119)
 
